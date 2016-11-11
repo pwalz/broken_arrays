@@ -1,0 +1,6 @@
+name             "broken_arrays"
+maintainer       "Peter Walz, (C) Regents of the University of Minnesota"
+maintainer_email "pnw@umn.edu"
+license          "Apache 2.0"
+description      "Demonstrates array syntax that differs between chef-client 12.15.19 and 12.16.42"
+version          "1.0.0"
